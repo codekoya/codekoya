@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codekoya
 - 👀 I’m interested in web development.  
-- 🌱 I’m currently learning JS and Django. 
+- 🌱 I’m currently learning Django. 
 
 
 <!---
