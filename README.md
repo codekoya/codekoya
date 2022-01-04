@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codekoya
-- 👀 I’m interested in web development.  
+- 👀 I’m interested in web development and data science.  
 - 🌱 I’m currently learning Django. 
 
 
