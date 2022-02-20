@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codekoya
-- 👀 I’m interested in web development and data science.   
+- 👀 I’m interested in web development. 
 
 
 <!---
